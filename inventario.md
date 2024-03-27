@@ -6,3 +6,4 @@ componenti
 - schede_madri.md
 periferiche
 - tastiere.md
+- mouse.md
